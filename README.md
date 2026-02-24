@@ -14,3 +14,4 @@
 12. [OneNote Web Clipper](https://chromewebstore.google.com/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
 13. [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn)
 14. [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje)
+15. [Tab Session Manager](https://chromewebstore.google.com/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae)
