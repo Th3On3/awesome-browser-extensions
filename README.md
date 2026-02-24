@@ -1,3 +1,16 @@
 # curated-list-chrome-extensions
 
 1. [Session Buddy - Tab & Bookmark Manager](https://chromewebstore.google.com/detail/session-buddy-tab-bookmar/edacconmaakjimmfgnblocblbcdcpbko)
+2. [VT4Browsers + Google TI](https://chromewebstore.google.com/detail/vt4browsers-+-google-ti/efbjojhplkelaegfbieplglfidafgoka)
+3. [Passbolt - Open source password manager](https://chromewebstore.google.com/detail/passbolt-open-source-pass/didegimhafipceonhjepacocaffmoppf)
+4. [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)
+5. [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+6. [Cookie-Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)
+7. [Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)
+8. [GitHub Markdown Printer](https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk)
+9. [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
+10. [Raindrop.io](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
+11. [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf)
+12. [OneNote Web Clipper](https://chromewebstore.google.com/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
+13. [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn)
+14. [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje)
