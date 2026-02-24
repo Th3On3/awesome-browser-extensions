@@ -14,4 +14,7 @@
 12. [OneNote Web Clipper](https://chromewebstore.google.com/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
 13. [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn)
 14. [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje)
-15. [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol) 
+15. [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
+16. [Leitor de texto - Texto para leitura](https://chromewebstore.google.com/detail/leitor-de-texto-texto-par/bjjamnamnndpikgfpbocmcnclhfdeekh)
+17. [Proton VPN: Fast & Secure](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)
+18. [Scopus Document Download Manager](https://chromewebstore.google.com/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp)
