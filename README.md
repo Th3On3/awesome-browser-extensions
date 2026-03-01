@@ -18,3 +18,5 @@
 16. [Leitor de texto - Texto para leitura](https://chromewebstore.google.com/detail/leitor-de-texto-texto-par/bjjamnamnndpikgfpbocmcnclhfdeekh)
 17. [Proton VPN: Fast & Secure](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)
 18. [Scopus Document Download Manager](https://chromewebstore.google.com/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp)
+19. [Bookmark Import/Export](https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn)
+20. [NexVid - Real-time Video Upscaler & Enhancer](https://chromewebstore.google.com/detail/nexvid-real-time-video-up/hiocbajaikpcckgeagcngaeoioncmbim)
