@@ -20,3 +20,4 @@
 18. [Scopus Document Download Manager](https://chromewebstore.google.com/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp)
 19. [Bookmark Import/Export](https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn)
 20. [NexVid - Real-time Video Upscaler & Enhancer](https://chromewebstore.google.com/detail/nexvid-real-time-video-up/hiocbajaikpcckgeagcngaeoioncmbim)
+21. [Search Bookmarks, History and Tabs](https://chromewebstore.google.com/detail/search-bookmarks-history/cofpegcepiccpobikjoddpmmocficdjj)
