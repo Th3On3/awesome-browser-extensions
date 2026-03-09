@@ -1,7 +1,7 @@
 # curated-list-chrome-extensions
 
 1. [Session Buddy - Tab & Bookmark Manager](https://chromewebstore.google.com/detail/session-buddy-tab-bookmar/edacconmaakjimmfgnblocblbcdcpbko)
-2. [Tab Session Manager](https://chromewebstore.google.com/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae)
+2. [The Great Suspender Reloaded (2025 Safe Edition)](https://chromewebstore.google.com/detail/the-great-suspender-reloa/hlofigcdgjlnalbkeeinfcjceabpamci)
 3. [VT4Browsers + Google TI](https://chromewebstore.google.com/detail/vt4browsers-+-google-ti/efbjojhplkelaegfbieplglfidafgoka)
 4. [Passbolt - Open source password manager](https://chromewebstore.google.com/detail/passbolt-open-source-pass/didegimhafipceonhjepacocaffmoppf)
 5. [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)
@@ -14,7 +14,7 @@
 12. [OneNote Web Clipper](https://chromewebstore.google.com/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
 13. [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn)
 14. [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje)
-15. [Auto Tab Discard (suspend)](https://chromewebstore.google.com/detail/auto-tab-discard-suspend/jhnleheckmknfcgijgkadoemagpecfol)
+15. [TooManyTabs for Chrome](https://chromewebstore.google.com/detail/toomanytabs-for-chrome/amigcgbheognjmfkaieeeadojiibgbdp)
 16. [Leitor de texto - Texto para leitura](https://chromewebstore.google.com/detail/leitor-de-texto-texto-par/bjjamnamnndpikgfpbocmcnclhfdeekh)
 17. [Proton VPN: Fast & Secure](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)
 18. [Scopus Document Download Manager](https://chromewebstore.google.com/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp)
