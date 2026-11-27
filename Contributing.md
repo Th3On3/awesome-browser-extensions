@@ -21,5 +21,10 @@ Contributions are welcome!
 
 ## Pull requests
 
+- Every pull request must pass awesome-lint.
+- Run npx awesome-lint locally before opening a pull request, and fix all reported issues.
+- The CI workflow in .github/workflows/main.yml runs awesome-lint on every pull request to main.
+- Pull requests that fail awesome-lint will not be merged.
 - Keep each pull request focused on one item or one small change.
 - Explain why the item deserves to be on the list.
+
