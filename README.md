@@ -24,6 +24,7 @@ All extensions compatible with Chromium (open source project which Google Chrome
 - [Cookie-Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) - Create, edit, delete, import, and export cookies for testing and debugging websites.
 - [GitHub Markdown Printer](https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk) - Print GitHub Markdown pages with clean formatting, without the surrounding interface.
 - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts to customize, automate, and extend web pages.
+- [Test](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfb)
 
 ### Media and accessibility
 
