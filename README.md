@@ -1,4 +1,4 @@
-# Awesome Browser Extensions[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Browser Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The best browser extensions for modern web browsers, starting with Chromium-based browsers.
 
