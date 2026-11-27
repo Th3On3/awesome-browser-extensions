@@ -15,28 +15,28 @@
 
 ## Chromium
 
-Chromium is the open source project behind Google Chrome and Microsoft Edge. It can install extensions from the Chrome Web Store. All extensions in this list are listed once, under Google Chrome, and work on Chromium.
+All extensions compatible with Chromium (open source project which Google Chrome and Microsoft Edge are based upon, capable of installing extensions from the Chrome Web Store) are also compatible with Google Chrome and are thus listed only once under Google Chrome.
 
 ## Google Chrome
 
-### Developer Tools
+### Developer tools
 
 - [Cookie-Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) - Create, edit, delete, import, and export cookies for testing and debugging websites.
 - [GitHub Markdown Printer](https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk) - Print GitHub Markdown pages with clean formatting, without the surrounding interface.
 - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts to customize, automate, and extend web pages.
 
-### Media and Accessibility
+### Media and accessibility
 
 - [Leitor de texto](https://chromewebstore.google.com/detail/leitor-de-texto-texto-par/bjjamnamnndpikgfpbocmcnclhfdeekh) - Read web pages aloud in Portuguese with text-to-speech, for accessibility and hands-free reading.
 - [NexVid](https://chromewebstore.google.com/detail/nexvid-real-time-video-up/hiocbajaikpcckgeagcngaeoioncmbim) - Upscale and enhance web videos in real time with GPU-accelerated filters.
 
-### Privacy and Security
+### Privacy and security
 
 - [Passbolt](https://chromewebstore.google.com/detail/passbolt-open-source-pass/didegimhafipceonhjepacocaffmoppf) - Open source password manager for teams, with sharing and self-hosting.
 - [Proton VPN](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa) - Fast and secure VPN with a no-logs policy, from the makers of Proton Mail.
 - [VT4Browsers](https://chromewebstore.google.com/detail/vt4browsers-+-google-ti/efbjojhplkelaegfbieplglfidafgoka) - Scan files, URLs, and downloads with VirusTotal and Google Threat Intelligence.
 
-### Research, Reading and Knowledge Management
+### Research, reading and knowledge management
 
 - [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje) - Self-hostable bookmark manager for links, notes, images, and PDFs, with AI auto-tagging and full-text search.
 - [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn) - Self-hostable bookmark manager that archives web pages for long-term access.
@@ -46,7 +46,7 @@ Chromium is the open source project behind Google Chrome and Microsoft Edge. It 
 - [Scopus Document Download Manager](https://chromewebstore.google.com/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp) - Download documents and metadata from Scopus for research workflows.
 - [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) - Save references, PDFs, and web pages directly to Zotero.
 
-### Tab and Bookmark Management
+### Tab and bookmark management
 
 - [Bookmark Import/Export](https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn) - Import and export bookmarks in HTML format, for backup and migration.
 - [Search Bookmarks, History and Tabs](https://chromewebstore.google.com/detail/search-bookmarks-history/cofpegcepiccpobikjoddpmmocficdjj) - Search across bookmarks, history, and open tabs from one place.
@@ -57,12 +57,15 @@ Chromium is the open source project behind Google Chrome and Microsoft Edge. It 
 
 ## Microsoft Edge
 
-Microsoft Edge is built on Chromium and can install extensions from the Chrome Web Store. All extensions listed under Google Chrome work on Microsoft Edge, without a separate listing.
+Chromium-based Microsoft Edge supports the installation of extensions available in the Chrome Web Store, so there’s no need to look for Microsoft Edge-specific add-ons, all Google Chrome extensions will also work in Microsoft Edge.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. Firefox and Safari are not yet covered. Contributions for those browsers are especially welcome.
+Please see the [contribution guidelines](Contributing.md) first if you would like to contribute! Contributions to add Firefox and Safari are especially welcome, since these browsers aren't currently included.
 
 ## Footnotes
 
-All links point to the Chrome Web Store. Extensions are listed once, under Google Chrome, to avoid duplication, because Chrome Web Store extensions work on all Chromium-based browsers, including Chromium, Microsoft Edge, Brave, Opera, Vivaldi, and Arc. Product names were shortened to their canonical names, without store marketing suffixes such as “for Chrome” or “Fast & Secure”. Firefox and Safari are not yet covered, because they use different extension stores, and no empty sections were added for them.
+To avoid listing items multiple times, extensions available in the Chrome Web Store are only listed once under Google Chrome (note that extensions in the Chrome Web Store also work in other Chromium based browsers, such as Chromium, Microsoft Edge, Brave, Opera, Vivaldi, Arc, etc.).
+Links point to the respective browser’s extension store.
+Firefox and Safari extensions are different, and will be added when covered. (I didn’t want to have empty sections for those browsers)
+I’ve removed names like “for Chrome” or “Fast & Secure” to have a canonical name of the products.
