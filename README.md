@@ -1,4 +1,4 @@
-# curated-list-chrome-extensions
+# awesome-browser-extensions
 
 1. [Session Buddy - Tab & Bookmark Manager](https://chromewebstore.google.com/detail/session-buddy-tab-bookmar/edacconmaakjimmfgnblocblbcdcpbko)
 2. [The Great Suspender Reloaded (2025 Safe Edition)](https://chromewebstore.google.com/detail/the-great-suspender-reloa/hlofigcdgjlnalbkeeinfcjceabpamci)
