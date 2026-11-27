@@ -1,6 +1,6 @@
 # Awesome Browser Extensions [[Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> The best extensions for Chromium-based browsers, including Google Chrome, Microsoft Edge, and Chromium.
+> The best browser extensions for modern web browsers, starting with Chromium-based browsers.
 
 ## Contents
 
