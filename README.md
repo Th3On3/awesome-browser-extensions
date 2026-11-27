@@ -6,11 +6,11 @@
 
 - [Chromium](#chromium)
 - [Google Chrome](#google-chrome)
-  - [Developer Tools](#developer-tools)
-  - [Media and Accessibility](#media-and-accessibility)
-  - [Privacy and Security](#privacy-and-security)
-  - [Research, Reading and Knowledge Management](#research-reading-and-knowledge-management)
-  - [Tab and Bookmark Management](#tab-and-bookmark-management)
+  - [Developer tools](#developer-tools)
+  - [Media and accessibility](#media-and-accessibility)
+  - [Privacy and security](#privacy-and-security)
+  - [Research, reading and knowledge management](#research-reading-and-knowledge-management)
+  - [Tab and bookmark management](#tab-and-bookmark-management)
 - [Microsoft Edge](#microsoft-edge)
 
 ## Chromium
