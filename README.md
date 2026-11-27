@@ -22,7 +22,6 @@ All extensions compatible with Chromium (open source project which Google Chrome
 ### Developer tools
 
 - [Cookie-Editor](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm) - Create, edit, delete, import, and export cookies for testing and debugging websites.
-- [GitHub Markdown Printer](https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk) - Print GitHub Markdown pages with clean formatting, without the surrounding interface.
 - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts to customize, automate, and extend web pages.
 
 ### Media and accessibility
@@ -40,6 +39,7 @@ All extensions compatible with Chromium (open source project which Google Chrome
 
 - [Karakeep](https://chromewebstore.google.com/detail/karakeep/kgcjekpmcjjogibpjebkhaanilehneje) - Self-hostable bookmark manager for links, notes, images, and PDFs, with AI auto-tagging and full-text search.
 - [Linkwarden](https://chromewebstore.google.com/detail/linkwarden/pnidmkljnhbjfffciajlcpeldoljnidn) - Self-hostable bookmark manager that archives web pages for long-term access.
+- [Markside: Markdown Viewer & Editor](https://chromewebstore.google.com/detail/markside-markdown-viewer/ccokohfaicfjkilcakhnlckbbkhhknhj) - Read, edit, and collaborate on Markdown with teammates and AI agents. Inline comment, outline, file tree, Mermaid, math, PDF export. 
 - [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf) - Save web pages to Obsidian as clean Markdown notes.
 - [OneNote Web Clipper](https://chromewebstore.google.com/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk) - Save web pages, articles, and PDFs to Microsoft OneNote.
 - [Raindrop.io](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien) - Save and organize bookmarks, articles, photos, and videos in collections.
